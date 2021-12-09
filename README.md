@@ -7,7 +7,7 @@
 ## 👨🏻‍💻 &nbsp;About Me 
 
 - 🎓 &nbsp; Studying Information Technology at GGSIPU, Delhi.
-- 💼 &nbsp; Intern at Aitra Development as Frontend Developer.
+- 💼 &nbsp; Intern at Aitra Development as a Frontend Developer.
 
   
 
