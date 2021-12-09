@@ -1,4 +1,4 @@
-### Hey there! I'm Aniket Arora 👋
+<h2> Hey there! I'm Aniket Arora 👋</h2>
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-arora-042792195/)
