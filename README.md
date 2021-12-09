@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! I'm Aniket Arora 👋
 
 <!--
 **aroraaniket/aroraaniket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
