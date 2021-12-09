@@ -4,6 +4,12 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-arora-042792195/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aniketarora568@gmail.com)
 
+## 👨🏻‍💻 &nbsp;About Me 
+
+- 🎓 &nbsp; Studying Information Technology at GGSIPU, Delhi.
+- 💼 &nbsp; Intern at Aitra Development as Frontend Developer.
+
+  
 
   
  
