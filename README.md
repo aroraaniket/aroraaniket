@@ -1,5 +1,9 @@
 ### Hey there! I'm Aniket Arora 👋
 
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-arora-042792195/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aniketarora568@gmail.com)
+
 <!--
 **aroraaniket/aroraaniket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
